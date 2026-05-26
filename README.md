@@ -15,4 +15,4 @@ This repository contains university projects implemented in C/C++ focused on cor
 - Static, cyclic, and dynamic task parallelism
 - Recursive parallelism techniques
 - Socket-based communication (client–server models)
-- Remote Method Invocation (RMI) concepts
+- Remote Procedure Calls (RPC)
