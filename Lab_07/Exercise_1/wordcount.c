@@ -4,6 +4,7 @@
  * | File: bible.txt 16 times. 
  * | CPU Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz
  */
+#define _POSIX_C_SOURCE 200809L
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>

@@ -36,7 +36,6 @@ public:
             releaseLeft();
             releaseRight();
             waiter.unlock();
-
         }
     }
 
